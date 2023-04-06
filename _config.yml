@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "CHOI"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/choi_profile_image.png"
   bio              : "꾸준하게 개발하자!"
   location         : "Somewhere"
   email            :
@@ -124,10 +124,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: https://github.com/CHOI97
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+       url: https://www.instagram.com/down_upper/
 
 # Site Footer
 footer:
